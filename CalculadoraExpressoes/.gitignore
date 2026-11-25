@@ -1,0 +1,7 @@
+# Haskell compilado
+*.hi
+*.o
+calculadora
+
+# Java compilado
+*.class
